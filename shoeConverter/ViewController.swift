@@ -4,7 +4,13 @@
 //
 //  Created by Omar Al-Bazergan on 2/2/15.
 //  Copyright (c) 2015 theBTI. All rights reserved.
-//
+
+
+//Notes
+//Commmits
+
+// First Commit on Monday 4:35 PM
+
 
 import UIKit
 
