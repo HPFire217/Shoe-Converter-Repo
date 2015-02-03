@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6F092C85-D016-46C0-BAA3-B98F5F38D649</string>
+	<key>IDESourceControlProjectName</key>
+	<string>shoeConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA6121B72F49C9C5EB7F01914CC3463B8FE7E8B3</key>
+		<string>https://github.com/HPFire217/Shoe-Converter-Repo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>shoeConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA6121B72F49C9C5EB7F01914CC3463B8FE7E8B3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HPFire217/Shoe-Converter-Repo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA6121B72F49C9C5EB7F01914CC3463B8FE7E8B3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA6121B72F49C9C5EB7F01914CC3463B8FE7E8B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>shoeConverter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
