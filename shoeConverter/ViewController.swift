@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         let sizeFromTextField = mensShoeSizeTextField.text.toInt()!
         let conversionConstant = 30
         mensConvertedShoeSizeLabel.hidden = false
-        mensConvertedShoeSizeLabel.text = "\(sizeFromTextField + conversionConstant)" + " in European Shoe Size"
+        mensConvertedShoeSizeLabel.text = "\(sizeFromTextField + conversionConstant)" + " in Men's European Shoe Size"
         }
 
 }
